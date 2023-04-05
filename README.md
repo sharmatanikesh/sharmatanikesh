@@ -16,7 +16,6 @@
  ## Find me around the web 🌎:
  - ### [Linkdin](www.linkedin.com/in/tanikesh-sharma-25b924230)
  - ### [Twitter](https://twitter.com/TanikeshSharma)
- - ### [Dev](https://dev.to/sharmatanikesh)
  - ### [Hashnode](https://madmax.hashnode.dev/)
  
  
