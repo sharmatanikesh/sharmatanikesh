@@ -11,7 +11,7 @@
  
  - ### 📫 How to reach me: sharmatanikesh@gmail.com
  
- - ### 😄 Pronouns: He/Him.
+
  
  ## Find me around the web 🌎:
  - ### [Linkdin](www.linkedin.com/in/tanikesh-sharma-25b924230)
