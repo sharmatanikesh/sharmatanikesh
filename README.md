@@ -1,22 +1,28 @@
-# 👋 Hello, World!
+👋 Hello, World!
 
-I'm **Tanikesh Sharma**, a curious and driven learner currently pursuing a **Bachelor of Technology in Computer Science**, specializing in **Cybersecurity**. I love contributing to **open-source**, writing about tech, and exploring **DevOps** practices.
+I'm Tanikesh Sharma, a Backend Engineer passionate about building scalable and reliable systems in Golang.
 
----
+🚀 What I’m Up To
 
-## 🚀 What I’m Up To
+🔭 Building and scaling backend services using Go, gRPC, REST, and PostgreSQL
 
-- 🔭 Working on some personal & collaborative projects  
-- 🌱 Learning:
-  - **Spring Framework**
-  - **Android Development**
-  - Helping the tech community through blogs and discussions
-- 🤝 Open to collaboration on:
-  - Research Projects
-  - Developer Communities
-- 📫 Reach me at: **sharmatanikesh@gmail.com**
+⚙️ Exploring distributed systems, caching, and performance optimization
 
----
+🌱 Learning and improving in:
+
+System Design
+
+Cloud Infrastructure (GCP)
+
+Observability and Monitoring
+
+🤝 Open to collaboration on:
+
+Backend or Infrastructure Projects
+
+Open Source Contributions
+
+📫 Reach me at: sharmatanikesh@gmail.com
 
 ## 🌍 Connect with Me
 
